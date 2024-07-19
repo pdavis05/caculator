@@ -101,6 +101,8 @@ align-items: center;
   transition: background-color 0.5s;
 
 }
+
+
 .keys .column span:hover, .operators span:hover{
   background-color: rgba(0, 0, 0, 2);
 }

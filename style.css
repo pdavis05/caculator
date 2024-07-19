@@ -63,7 +63,7 @@ html {
 }
 .bottom {
 background-color: #2d2d2d;
-height: 300PX;
+height: 300px;
 color: #fff;
 cursor: pointer;
 }
@@ -101,13 +101,12 @@ justify-content: center;
 align-items: center;
 transition: background-color 0.5;
 }
+.keys .column span:hover, .operators span:hover{
+  background-color: rgba(0,0,0, 0.2);
+}
 
 .keys .column span{
   font-size: 25px;
-}
-
-.keys .column span:hover, .operators span:hover{
-  background-color: rgba(0,0,0, 0.2);
 }
 
 .operators{
